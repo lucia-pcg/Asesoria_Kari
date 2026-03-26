@@ -7,6 +7,8 @@
 	pros::Controller master(pros::E_CONTROLLER_MASTER);
 
 	const int IMU_SIGN = 1; 
+	
+// Comentario
 
 	void initialize() {
 		pros::lcd::initialize();
